@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+
+body{
+	background-color:Black;
+}
+header{
+	
+}
+
+footer{
+	background-color:Plum;
+	
+}
+h1{
+	font-family: 'Chakra Petch', sans-serif;
+	color:Plum;
+}
+h2{
+	display:inline;
+	color:Indigo;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:30px;
+}
+h3{
+	font-family: 'Staatliches', cursive;
+	font-size:50px;
+	color:LemonChiffon;
+}
+h4{
+	font-family: 'Staatliches', cursive;
+	color:White;
+}
+h5{
+	font-family: 'Staatliches', cursive;
+	color:white;
+}
+p{
+	font-size:22px;
+	color:White;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+li{
+	
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:25px;
+	
+}
+
+.logo{
+	width:80px;
+}
+
+.foto{
+	width:100%;
+}
+.bilete{
+	background-color:Black;
+}
+.poza{
+	
+	background-color:Black;
+	margin:auto;
+}
+.fundalmagenta{
+	background-color:DarkMagenta;
+}
+.fundalindigo{
+	background-color:Indigo;
+}
+.fundalplum{
+	background-color:Plum;
+}
+.copy{
+	background-color:Indigo;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.socials{
+	background-color:Black;
+	width:60%;
+	
+}
+.cf{
+	font-family: 'Chakra Petch', sans-serif;
+	font-size:30px;
+	
+}
+.op{
+	opacity:0.5;
+	width:100%;
+}
+.icon{
+	width:50px;
+	height:50px;
+	padding:7px;
+}
